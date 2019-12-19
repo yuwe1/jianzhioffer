@@ -4,10 +4,11 @@
 
 ## 目录【github】
 ### [二维数组的查找](https://github.com/yuwe1/jianzhioffer/tree/master/day01/demo1)
-
+### [字符串替换](https://github.com/yuwe1/jianzhioffer/tree/master/day01/demo2)
 
 ## 目录【码云】
 ### [二维数组的查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo1)
+### [字符串替换](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo2)
 
 
 更多详细笔记可关注微信公众号  ^_^  ^_^ <br />

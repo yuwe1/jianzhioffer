@@ -16,6 +16,12 @@
 
 
 ## 联系我
+<div style="align: center">
+<img src="./img/公众号.png"/>
+</div>
+
+<br/>
+
 - 邮箱 yuweijiubayiqi@163.com
 - QQ  2354677290
 - 个人微信公众号:golang技术杂文(分享go、python、微服务、云原生、数据库、算法、消息队列)

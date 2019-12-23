@@ -26,8 +26,42 @@ func insert_sort(data1, data2 []int) (data []int) {
 	fmt.Println(data)
 	return data
 }
+
+func merge_two(data1 []int, data2 []int) {
+	i, j, k := 0, 0, 0
+	var result []int
+	result = make([]int, len(data1)+len(data2))
+	for i < len(data1) && j < len(data2) {
+		if data1[i] < data2[j] {
+			result[k] = data1[i]
+			k++
+			i++
+		} else {
+			result[k] = data2[j]
+			j++
+			k++
+		}
+
+	}
+	if i != len(data1) {
+		for i < len(data1) {
+			result[k] = data1[i]
+			i++
+			k++
+		}
+	}
+	if j != len(data2) {
+		for j < len(data2) {
+			result[k] = data2[j]
+			k++
+			j++
+		}
+	}
+	fmt.Println(result)
+}
 func main() {
 	data1 := []int{1, 3, 5, 7, 8, 9, 10}
 	data2 := []int{3, 4, 5, 6, 7, 8}
-	insert_sort(data1, data2)
+	// insert_sort(data1, data2)
+	merge_two(data1, data2)
 }

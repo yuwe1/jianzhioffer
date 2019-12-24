@@ -7,11 +7,15 @@
 ### [字符串替换](https://github.com/yuwe1/jianzhioffer/tree/master/day01/demo2)
 ### [打印倒叙链表](https://github.com/yuwe1/jianzhioffer/tree/master/day01/demo3)
 ### [重建二叉树](https://github.com/yuwe1/jianzhioffer/tree/master/day01/demo5)
+### [两个栈实现队列](https://github.com/yuwe1/jianzhioffer/tree/master/day01/demo6)
+
+
 ## 目录【码云】
 ### [二维数组的查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo1)
 ### [字符串替换](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo2)
 ### [打印倒叙链表](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo3)
 ### [重建二叉树](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo5)
+### [两个栈实现队列](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo6)
 
 更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
 更多详细笔记可关注微信公众号  ^_^  ^_^ <br />

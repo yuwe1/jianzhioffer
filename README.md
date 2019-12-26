@@ -8,6 +8,7 @@
 ### [打印倒叙链表](https://github.com/yuwe1/jianzhioffer/tree/master/day01/demo3)
 ### [重建二叉树](https://github.com/yuwe1/jianzhioffer/tree/master/day01/demo5)
 ### [两个栈实现队列](https://github.com/yuwe1/jianzhioffer/tree/master/day01/demo6)
+### [二分查找](https://github.com/yuwe1/jianzhioffer/tree/master/day02/demo1)
 
 
 ## 目录【码云】
@@ -16,6 +17,7 @@
 ### [打印倒叙链表](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo3)
 ### [重建二叉树](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo5)
 ### [两个栈实现队列](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo6)
+### [二分查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo1)
 
 更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
 更多详细笔记可关注微信公众号  ^_^  ^_^ <br />

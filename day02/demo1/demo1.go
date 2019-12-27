@@ -48,6 +48,7 @@ func GetCount(data []int, key int) (sum int) {
 	}
 	return sum - 1
 }
+
 func main() {
 	data := []int{1, 3, 3, 4, 5, 6, 7, 8, 9}
 	fmt.Println(GetCount(data, 3))

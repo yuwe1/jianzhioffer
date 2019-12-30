@@ -11,7 +11,7 @@
 ### [二分查找](https://github.com/yuwe1/jianzhioffer/tree/master/day02/demo1)
 ### [常见排序算法](https://github.com/yuwe1/jianzhioffer/tree/master/day02/demo2)
 ### [旋转数组](https://github.com/yuwe1/jianzhioffer/tree/master/day02/demo3)
-
+### [26进制的转换](https://github.com/yuwe1/jianzhioffer/tree/master/day02/demo5)
 
 
 ## 目录【码云】
@@ -23,6 +23,7 @@
 ### [二分查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo1)
 ### [常见排序算法](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo2)
 ### [旋转数组](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo3)
+### [26进制的转换](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo5)
 
 
 

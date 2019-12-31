@@ -12,7 +12,7 @@
 ### [常见排序算法](https://github.com/yuwe1/jianzhioffer/tree/master/day02/demo2)
 ### [旋转数组](https://github.com/yuwe1/jianzhioffer/tree/master/day02/demo3)
 ### [26进制的转换](https://github.com/yuwe1/jianzhioffer/tree/master/day02/demo5)
-
+### [利用位运算计算二进制中的1的个数](https://github.com/yuwe1/jianzhioffer/tree/master/day02/demo6)
 
 ## 目录【码云】
 ### [二维数组的查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo1)
@@ -24,6 +24,7 @@
 ### [常见排序算法](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo2)
 ### [旋转数组](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo3)
 ### [26进制的转换](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo5)
+### [利用位运算计算二进制中的1的个数](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo6)
 
 
 

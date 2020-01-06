@@ -81,11 +81,9 @@ func printMaxN_four(n uint64) (str string) {
 	}
 	return str + printMaxN_four(n)
 }
-func main() {
-	printMaxN_two(10)
-	printMaxN_two(19)
-	printMaxN_three(20)
-	fmt.Println(printMaxN_four(20))
-	fmt.Println(printMaxN_four(1))
-	Print1ToMaxOfDigits(2)
+
+func main(){
+	
 }
+
+

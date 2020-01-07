@@ -81,9 +81,3 @@ func printMaxN_four(n uint64) (str string) {
 	}
 	return str + printMaxN_four(n)
 }
-
-func main(){
-	
-}
-
-

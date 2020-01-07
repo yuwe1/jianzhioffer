@@ -22,6 +22,7 @@ func print1ToMaxOfDigitsRecursively(number []int, length int, index int) {
 	}
 
 	for i := 0; i < 10; i++ {
+		
 		number[index+1] = i
 		print1ToMaxOfDigitsRecursively(number, length, index+1)
 	}
@@ -44,4 +45,6 @@ func printNumber(number []int) {
 	}
 }
 
-
+func main() {
+	Print1ToMaxOfDigits(2)
+}

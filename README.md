@@ -14,6 +14,7 @@
 ### [26进制的转换](https://github.com/yuwe1/jianzhioffer/tree/master/day02/demo5)
 ### [利用位运算计算二进制中的1的个数](https://github.com/yuwe1/jianzhioffer/tree/master/day02/demo6)
 ### [求整数次方代码优化](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo1)
+### [打印n位最大数](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo2)
 
 ## 目录【码云】
 ### [二维数组的查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo1)
@@ -27,7 +28,7 @@
 ### [26进制的转换](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo5)
 ### [利用位运算计算二进制中的1的个数](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo6)
 ### [整数次方代码优化](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo1)
-
+### [打印n位最大数](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo2)
 
 
 

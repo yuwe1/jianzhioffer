@@ -31,8 +31,8 @@
 ### [利用位运算计算二进制中的1的个数](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day02/demo6)
 ### [整数次方代码优化](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo1)
 ### [打印n位最大数](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo2)
-### [O(1)时间复杂度删除结点](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo1)
-### [奇数在前偶在后](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo2)
+### [O(1)时间复杂度删除结点](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo3)
+### [奇数在前偶在后](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo4)
 
 
 

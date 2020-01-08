@@ -5,6 +5,9 @@ import (
 )
 
 func ReOrderOddEven(data []int) []int {
+	if len(data) == 0{
+		return data
+	}
 	var temp1 []int
 	var temp2 []int
 	lengh := len(data)

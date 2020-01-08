@@ -192,7 +192,7 @@ func Quick_Sort(data []int,left,right int){
 			data[p],data[j] = data[j],data[p]
 			p = j
 		}
-		if data[p]>=data[i] && j <=p{
+		if data[p]>=data[i] && i <=p{
 			i++
 		}
 		if p >=i{
@@ -232,6 +232,8 @@ func SortAges(ages []int){
 }
 func main() {
 	data := []int{4, 2, 1, 10, 9, 10, 2, 0}
+	Quick_Sort(data,0,7)
+	fmt.Println(data)
 	// bubbleSort(data)
 	// Select_Sort(data)
 	// for i := 0; i < len(data); i++ {
@@ -258,7 +260,7 @@ func main() {
 	// Merge_Sort(args,res)
 	// Quick_Sort(data,0,len(data)-1)
 	// Merge(data)
-	SortAges(data)
-	fmt.Println(data)
+	// SortAges(data)
+	// fmt.Println(data)
 
 }

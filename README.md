@@ -17,6 +17,7 @@
 ### [打印n位最大数](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo2)
 ### [O(1)时间复杂度删除结点](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo3)
 ### [奇数在前偶在后](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo4)
+### [链表的倒数第K个结点](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo5)
 
 ## 目录【码云】
 ### [二维数组的查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo1)
@@ -33,6 +34,7 @@
 ### [打印n位最大数](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo2)
 ### [O(1)时间复杂度删除结点](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo3)
 ### [奇数在前偶在后](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo4)
+### [链表的倒数第K个结点](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo4)
 
 
 

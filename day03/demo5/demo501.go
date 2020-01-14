@@ -2,14 +2,12 @@ package main
 
 import "fmt"
 
-
-
 func addNode(head *ListNode, node ListNode) {
-		phead := head
-		for phead.m_pNext != nil {
-			phead = phead.m_pNext
-		}
-		phead.m_pNext = &node
+	phead := head
+	for phead.m_pNext != nil {
+		phead = phead.m_pNext
+	}
+	phead.m_pNext = &node
 }
 
 func readNode(head *ListNode) {
@@ -24,21 +22,21 @@ func readNode(head *ListNode) {
 	}
 }
 
-func findKfromTail(head *ListNode,k int){
-	if head == nil || k == 0{
+func findKfromTail(head *ListNode, k int) {
+	if head == nil || k == 0 {
 		fmt.Println("请输入有效的k")
-			return
+		return
 	}
 	phead := head.m_pNext
-	for i :=0;i<k-1;i++{
-		if phead.m_pNext !=nil{
+	for i := 0; i < k-1; i++ {
+		if phead.m_pNext != nil {
 			phead = phead.m_pNext
-		}else{
+		} else {
 			return
 		}
 	}
 	pBhind := head.m_pNext
-	for phead.m_pNext !=nil{
+	for phead.m_pNext != nil {
 		phead = phead.m_pNext
 		pBhind = pBhind.m_pNext
 	}

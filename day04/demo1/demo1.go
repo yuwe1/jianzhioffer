@@ -2,8 +2,6 @@ package main
 
 import "fmt"
 
-import "github.com/songtianyi/rrframework/structures/stack"
-
 type ListNode struct {
 	Val  int
 	Next *ListNode

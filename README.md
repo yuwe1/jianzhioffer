@@ -19,6 +19,7 @@
 - [奇数在前偶在后](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo4)
 - [链表的倒数第K个结点](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo5)
 - [反转链表](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo6)
+- [树的子结构](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo7)
 
 ## 目录【码云】
 - [二维数组的查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo1)
@@ -37,7 +38,7 @@
 - [奇数在前偶在后](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo4)
 - [链表的倒数第K个结点](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo5)
 - [反转链表](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo6)
-
+- [树的子结构](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo6)
 
 
 

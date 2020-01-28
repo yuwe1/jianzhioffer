@@ -11,7 +11,8 @@
 ### 思路
 对于此类题，我们可以将跟结点的左右子树进行反转，再分别最各自的左右子树进行反转
 
-``func MicrrorRecusively(root *treeNode) {
+```go
+func MicrrorRecusively(root *treeNode) {
 	if root == nil || (root.left == nil && root.right == nil) {
 		return
 	}
@@ -22,6 +23,5 @@
 	if root.right != nil {
 		MicrrorRecusively(root.right)
 	}
-}`go
-
+}
 ```

@@ -42,3 +42,26 @@ func findKfromTail(head *ListNode, k int) {
 	}
 	fmt.Println(pBhind.m_nValue)
 }
+func main() {
+	// 定义一个头节点
+	head := new(ListNode)
+	addNode(head, ListNode{
+		m_nValue: 1,
+		m_pNext:  nil,
+	})
+
+	addNode(head, ListNode{
+		m_nValue: 2,
+		m_pNext:  nil,
+	})
+	addNode(head, ListNode{
+		m_nValue: 3,
+		m_pNext:  nil,
+	})
+	readNode(head)
+
+	findKfromTail(head, 1)
+	// head = nil
+	findKfromTail(head, 2)
+	findKfromTail(head, 2)
+}

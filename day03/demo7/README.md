@@ -104,3 +104,5 @@ func DoesTreeHHaveTree2(pRoot1 *treeNode, pRoot2 *treeNode) bool {
 	return DoesTreeHHaveTree2(pRoot1.Left, pRoot2.Left) && DoesTreeHHaveTree2(pRoot1.Right, pRoot2.Right)
 }
 ```
+
+- [树的子结构——完整代码](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo6)

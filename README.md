@@ -20,6 +20,8 @@
 - [链表的倒数第K个结点](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo5)
 - [反转链表](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo6)
 - [树的子结构](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo7)
+- [二叉树的镜像](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo2)
+- [顺时针打印矩阵](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo3)
 
 ## 目录【码云】
 - [二维数组的查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo1)
@@ -39,8 +41,8 @@
 - [链表的倒数第K个结点](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo5)
 - [反转链表](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo6)
 - [树的子结构](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo6)
-
-
+- [二叉树镜像](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo2)
+- [顺时针打印矩阵](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo3)
 
 
 

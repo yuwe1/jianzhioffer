@@ -41,9 +41,12 @@ func (l *ListNode) ReadNode() {
 // 反转链表
 func (l *ListNode) reverselist() {
 
+	// 代表前指针
 	var pre *Node
+	// 当前指针
 	p := l.head
 	for p != nil {
+		// 后指针
 		temp := p.n_pNext
 		if temp == nil {
 			l.head = p

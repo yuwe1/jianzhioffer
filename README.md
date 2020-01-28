@@ -22,6 +22,7 @@
 - [树的子结构](https://github.com/yuwe1/jianzhioffer/tree/master/day03/demo7)
 - [二叉树的镜像](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo2)
 - [顺时针打印矩阵](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo3)
+- [栈中实现min函数](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo4)
 
 ## 目录【码云】
 - [二维数组的查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo1)
@@ -43,8 +44,7 @@
 - [树的子结构](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day03/demo6)
 - [二叉树镜像](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo2)
 - [顺时针打印矩阵](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo3)
-
-
+- [栈中实现min函数](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo4)
 
 
 

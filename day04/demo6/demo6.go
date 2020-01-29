@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type treeNode struct {
 	value int
@@ -30,9 +32,25 @@ func preTree(root *treeNode) {
 	preTree(p.right)
 }
 
-// 从下往上打印二叉树
+// 从上往下打印二叉树
 func printFromtop(root *treeNode) {
+	// 将根节点进行入队
+	data := []*treeNode{}
+	data = append(data, root)
+	p := root
+	for len(data) > 0 {
+		fmt.Println(data[0].value)
+		p = data[0]
+		data = data[1:]
 
+		if p.left != nil {
+			data = append(data, p.left)
+		}
+		if p.right != nil {
+			data = append(data, p.right)
+		}
+
+	}
 }
 func main() {
 	data := []int{8, 6, 10, 5, 7, 9, 11}

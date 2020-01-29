@@ -24,6 +24,7 @@
 - [顺时针打印矩阵](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo3)
 - [栈中实现min函数](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo4)
 - [栈的压入弹出序列](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo5)
+- [数组是否是二叉查找树后序遍历的输出](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo7)
 
 ## 目录【码云】
 - [二维数组的查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo1)
@@ -47,6 +48,7 @@
 - [顺时针打印矩阵](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo3)
 - [栈中实现min函数](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo4)
 - [栈的压入，弹出序列](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo5)
+- [数组是否是二叉查找树后序遍历的输出](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo7)
 
 
 

@@ -49,7 +49,6 @@ func printFromtop(root *treeNode) {
 		if p.right != nil {
 			data = append(data, p.right)
 		}
-
 	}
 }
 func main() {

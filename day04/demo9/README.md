@@ -20,7 +20,10 @@ type ComListNode struct {
 </div>
 <br/>
 所以当我们遍历到A',A的slibing.next指针就是A'的slibing,最后我们仅仅分离出复制结点就行了。
-
+<div style="align: center">
+<img src="./../../img/album03.png"/>
+</div>
+<br/>
 ### 三步递归
 
 ***复制结点***

@@ -26,6 +26,8 @@
 - [栈的压入弹出序列](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo5)
 - [从上到下输出二叉树](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo6)
 - [数组是否是二叉查找树后序遍历的输出](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo7)
+- [找到和为定值的二叉树路径](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo8)
+- [复制复杂链表——递归与非递归](https://github.com/yuwe1/jianzhioffer/tree/master/day04/demo9)
 
 ## 目录【码云】
 - [二维数组的查找](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day01/demo1)
@@ -51,7 +53,8 @@
 - [栈的压入，弹出序列](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo5)
 - [从上到下输出二叉树](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo6)
 - [数组是否是二叉查找树后序遍历的输出](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo7)
-
+- [找到和为定值的二叉树路径](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo8)
+- [复制复杂链表——递归与非递归](https://gitee.com/yuweiwuyazi/jianzhioffer/tree/master/day04/demo9)
 
 
 ## 联系我

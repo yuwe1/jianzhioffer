@@ -104,7 +104,7 @@ func AddFix(root **RedBLackTree, node *RedBLackTree) {
 		}
 
 	}
-	*root.color = black
+	(*root).color = black
 }
 
 // 中序遍历
@@ -169,7 +169,7 @@ func RightRolate(root **RedBLackTree, node *RedBLackTree) {
 // 前序遍历
 func preRead(root *RedBLackTree) {
 	if root != nil {
-		fmt.Println(root.value)
+		fmt.Println(root.value, " ", root.color)
 		preRead(root.left)
 		preRead(root.right)
 	}
@@ -181,7 +181,7 @@ func main() {
 	for i := 1; i < len(data); i++ {
 		Add(redroot, data[i])
 	}
-	preRead(redroot)
-
+	// preRead(redroot)
+	Add(redroot, 11)
 	preRead(redroot)
 }

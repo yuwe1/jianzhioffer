@@ -38,6 +38,7 @@
 - [最长无重复字符串](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo3)
 - [红黑树](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo5)
 - [层序遍历二叉树两种方法](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo6)
+- [根据先序、中序找后序和构建二叉树](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo7)
 
 
 ## 联系我

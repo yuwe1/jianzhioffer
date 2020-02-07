@@ -39,6 +39,11 @@
 - [红黑树](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo5)
 - [层序遍历二叉树两种方法](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo6)
 - [根据先序、中序找后序和构建二叉树](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo7)
+- [递增二维数组中搜寻数字](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo8)
+- [空格替换](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo9)
+- [倒叙打印链表](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo10)
+- [中序遍历后继结点](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo11)
+- [数组模拟栈实现队列](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo12)
 
 
 ## 联系我

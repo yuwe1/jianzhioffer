@@ -44,8 +44,12 @@
 - [倒叙打印链表](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo10)
 - [中序遍历后继结点](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo11)
 - [数组模拟栈实现队列](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo12)
-
-
+- [矩阵路径搜索](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day01/demo13)
+- [机器人移动](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day02/demo1)
+- [字符串实现减法](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day02/demo2)
+- [Z字形遍历二叉树](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day02/demo4)
+- [搜索旋转排序的数组](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day02/demo5)
+- [重排链表[倒半交叉]](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day02/demo6)
 ## 联系我
 <div style="align: center">
 <img src="./img/公众号.png"/>

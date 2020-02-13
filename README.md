@@ -50,6 +50,15 @@
 - [Z字形遍历二叉树](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day02/demo4)
 - [搜索旋转排序的数组](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day02/demo5)
 - [重排链表[倒半交叉]](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day02/demo6)
+- [最大子序和-动态规划](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day03/demo1)
+- [最大上升子序列的数目](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day03/demo2)
+- [无序数组的中位数](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day03/demo3)
+- [数字第一次出现的位置](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day03/demo4)
+- [两个有序数组的合并](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day03/demo5)
+- [数组+1操作](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day04/demo1)
+- [买卖股票的最大利润](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day04/demo2)
+- [三步旋转数组](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day04/demo3)
+- [数组的交集](https://github.com/yuwe1/jianzhioffer/tree/master/offer/day04/demo4)
 ## 联系我
 <div style="align: center">
 <img src="./img/公众号.png"/>
